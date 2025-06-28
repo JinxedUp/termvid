@@ -9,3 +9,6 @@ python3 main.py <videoname.extension>
 ```
 python3 main.py <videoname.extension> --ascii
 ```
+### To save the rendered video from the terminal you will have to wait until the video is over, then the script will ask you if you would like to save it or not by typing y/n 
+
+Made by Jinx.
